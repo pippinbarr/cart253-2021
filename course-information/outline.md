@@ -31,8 +31,8 @@ Wednesdays, 14:00-16:00
 
 ## TAs (see Moodle for contact details)
 
-Section A (Thursdays): Coming soon...  
-Section B (Tuesdays): Coming soon...
+Section A (Thursdays): Madeline Zaytsoff
+Section B (Tuesdays): Sharon Ku
 
 ## [Territorial acknowledgment](https://www.concordia.ca/about/indigenous/territorial-acknowledgement.html)
 
