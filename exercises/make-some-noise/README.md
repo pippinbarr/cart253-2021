@@ -1,7 +1,9 @@
 # Exercise: Make Some Noise {
 
 #### Grade
-- 2% of final grade (if one of five completed exercises, see further guidelines at bottom)  
+- 2% of final grade
+- Remember that only 5 of your completed and passing exercises contribute to the final grade
+- Further guidelines below
 
 #### Deadline
 - Section A (Thursdays): 11:59PM, 11 November 2021.

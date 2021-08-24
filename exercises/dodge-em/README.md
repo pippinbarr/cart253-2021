@@ -1,8 +1,10 @@
 # Exercise: Dodge-em {
 
-#### Grade
-- 2% of final grade (if one of five completed exercises, see further guidelines at bottom)  
-
+  #### Grade
+  - 2% of final grade
+  - Remember that only 5 of your completed and passing exercises contribute to the final grade
+  - Further guidelines below
+  
 #### Deadline
 - Section A (Thursdays): 11:59PM, 30 September 2021
 - Section B (Tuesdays): 11:59PM, 28 September 2021
