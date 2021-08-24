@@ -1,4 +1,4 @@
-#### [Home](/cart253-2021/) | [Schedule](/cart253-2021/course-information/schedule.md)
+#### [Home](/cart253-2021/) | [Schedule](/cart253-2021/course-information/schedule/)
 
 # Schedule
 
