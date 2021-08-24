@@ -26,8 +26,6 @@ Week of 6 September 2021
 
 ## Before class
 
-[Hello, World! learning materials](https://pippinbarr.github.io/cc/1/schedule.md#hello-world)
-
 1. **Join** the course discord (link on [Moodle](https://moodle.concordia.ca/))
   * Don't forget to use your real name and include your pronouns please!
 1. **Read** the [Course Outline](./outline.md)
