@@ -1,3 +1,5 @@
+#### [Home](/cart253-2021/) | [Schedule](/cart253-2021/course-information/schedule/) | [Guides](https://pippinbarr.github.io/cc/1/guides/) | [Examples](https://pippinbarr.github.io/cc/1/examples/)
+
 # CART 253 - Creative Computation 1 - Fall 2021
 
 ### Instructor
@@ -15,11 +17,11 @@ Wednesdays, 14:00-16:00
 Section A (Thursdays): Madeline Zaytsoff  
 Section B (Tuesdays): Sharon Ku
 
-### [Course Outline](course-information/outline.md)
+### [Course Outline](course-information/outline/)
 
 The basic nature of the course, evaluation, software, expectations, and more.
 
-### [Schedule](course-information/schedule.md)
+### [Schedule](course-information/schedule/)
 
 A week-to-week schedule of the course, including links to learning materials, due dates, and more.
 
