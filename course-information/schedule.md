@@ -94,6 +94,8 @@ Week of 20 September 2021
 
 ## Classroom (in Discord classroom channels at 13:30 on the day of class)
 
+1. [Project 1](../projects/project1/)
+1. [Arrays](https://pippinbarr.github.io/cc/1/schedule.html#array) may be useful ahead of schedule
 1. Q&A
 1. Let's make something?
 
@@ -105,6 +107,7 @@ Week of 20 September 2021
 ## Homework
 
 1. Continue work on next week's material
+1. [Project 1](../projects/project1/)
 
 ---
 
@@ -129,6 +132,7 @@ Week of 27 September 2021
 ## Homework
 
 1. Continue work on next week's material
+1. [Project 1](../projects/project1/)
 
 ---
 
@@ -153,6 +157,7 @@ Week of 4 October 2021
 ## Homework
 
 1. Continue work on next week's material
+1. [Project 1](../projects/project1/)
 
 ---
 
@@ -172,11 +177,12 @@ Week of 11 October 2021
 ## Studio (in Discord studio channels after classroom)
 
 1. Instructor and TA available to help
-1. Finish up with [Project 1](xxx)
+1. Finish up with 1. [Project 1](../projects/project1/)
 1. Start work on next week's material
 
 ## Homework
 
+1. Submit [Project 1](../projects/project1/) on the night of class!
 1. Continue work on next week's material
 
 ---
