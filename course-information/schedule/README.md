@@ -28,7 +28,7 @@ Week of 6 September 2021
 
 1. **Join** the course discord (link on [Moodle](https://moodle.concordia.ca/))
   * Don't forget to use your real name and include your pronouns please!
-1. **Read** the [Course Outline](./outline.md)
+1. **Read** the [Course Outline](../outline/)
 1. **Complete** the [Hello, World! learning materials](https://pippinbarr.github.io/cc/1/schedule.html#hello-world)
 1. Get pumped!?
 
@@ -36,8 +36,8 @@ Week of 6 September 2021
 
 1. Welcome
 1. Introductions
-1. Reviewing the [Course Outline](./outline.md)
-1. Reviewing the [Course Schedule](./schedule.md)
+1. Reviewing the [Course Outline](../outline/)
+1. Reviewing the [Course Schedule](./)
 1. Waiting list? Is anyone on it?
 1. Any problems with software?
 1. The [C-LAB](https://clab.concordia.ca/) is there to help you
@@ -96,7 +96,7 @@ Week of 20 September 2021
 1. **Start** [Exercise: I Like to Move It!](../../exercises/i-like-to-move-it)
 ## Classroom (in Discord classroom channels at 13:30 on the day of class)
 
-1. [Project 1](../projects/project1/)
+1. [Project 1](../../projects/project1/)
 1. [Arrays](https://pippinbarr.github.io/cc/1/schedule.html#array) may be useful ahead of schedule
 1. Q&A
 1. Let's make something?
@@ -110,7 +110,7 @@ Week of 20 September 2021
 ## Homework
 
 1. Continue work on next week's material
-1. [Project 1](../projects/project1/)
+1. [Project 1](../../projects/project1/)
 
 ---
 
@@ -138,7 +138,7 @@ Week of 27 September 2021
 ## Homework
 
 1. Continue work on next week's material
-1. [Project 1](../projects/project1/)
+1. [Project 1](../../projects/project1/)
 
 ---
 
@@ -165,7 +165,7 @@ Week of 4 October 2021
 ## Homework
 
 1. Continue work on next week's material
-1. [Project 1](../projects/project1/)
+1. [Project 1](../../projects/project1/)
 
 ---
 
@@ -185,12 +185,12 @@ Week of 11 October 2021
 ## Studio (in Discord studio channels after classroom)
 
 1. Instructor and TA available to help
-1. Finish up with 1. [Project 1](../projects/project1/)
+1. Finish up with 1. [Project 1](../../projects/project1/)
 1. Start work on next week's material
 
 ## Homework
 
-1. Submit [Project 1](../projects/project1/) on the night of class!
+1. Submit [Project 1](../../projects/project1/) on the night of class!
 1. Continue work on next week's material
 
 ---
@@ -315,11 +315,11 @@ Week of 15 November 2021
 
 1. Instructor and TA available to help
 1. [Exercise: Project Progress Report](../../exercises/project-progress-report/) (due tonight)
-1. Working on [Project 2](../projects/project2/)
+1. Working on [Project 2](../../projects/project2/)
 
 ## Homework
 
-1. Continue work on [Project 2](../projects/project2/)
+1. Continue work on [Project 2](../../projects/project2/)
 
 ---
 
@@ -335,11 +335,11 @@ Week of 22 November 2021
 ## Studio (in Discord studio channels after classroom)
 
 1. Instructor and TA available to help
-1. Working on [Project 2](../projects/project2/)
+1. Working on [Project 2](../../projects/project2/)
 
 ## Homework
 
-1. Continue work on [Project 2](../projects/project2/)
+1. Continue work on [Project 2](../../projects/project2/)
 
 ---
 
@@ -360,10 +360,10 @@ Week of 29 November 2021
 
 1. Instructor and TA available to help
 1. [Exercise: Reflection](../../exercises/reflection/) (due tonight!)
-1. Working on [Project 2](../projects/project2/)
+1. Working on [Project 2](../../projects/project2/)
 
 ## Homework
 
-1. Continue work on [Project 2](../projects/project2/)
+1. Continue work on [Project 2](../../projects/project2/)
 
 ---
