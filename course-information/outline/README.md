@@ -140,7 +140,7 @@ When creating projects in code, make sure you attribute all elements that are no
 
 ## Costs
 
-* See the [Department Syllabus](./xxx.pdf)
+* See the [Department Syllabus](https://www.concordia.ca/content/dam/finearts/design/docs/dcart-undergraduate-syllabus.pdf)
 * All software students are expected to use in the class will be free.
 
 ## Technology
@@ -151,7 +151,7 @@ The practical work done in this class will take place on your own computer, with
 
 (Click through for week-by-week information about what we will cover in the course.)
 
-## [Design and Computation Arts Syllabus](./xxx.pdf)
+## [Design and Computation Arts Syllabus](https://www.concordia.ca/content/dam/finearts/design/docs/dcart-undergraduate-syllabus.pdf)
 
 (Click through for the standardized information from D/CART that is included as part of all course outlines.)
 
