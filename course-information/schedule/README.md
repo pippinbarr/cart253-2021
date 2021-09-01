@@ -71,7 +71,7 @@ Week of 13 September 2021
 ## Classroom (in Discord classroom channels at 13:30 on the day of class)
 
 1. The [Style Guide](https://pippinbarr.github.io/cc/1/guides/style-guide.html)
-1. The [Git Cheatsheet](https://pippinbarr.github.io/cc/1/guides/style-guide.html)
+1. The [Git Cheatsheet](https://pippinbarr.github.io/cc/1/guides/git-cheatsheet.html)
 1. Q&A
 1. Let's make something?
 
