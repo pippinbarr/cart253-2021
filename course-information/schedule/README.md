@@ -1,5 +1,10 @@
 #### [CART253](/cart253-2021/) | [Schedule](/cart253-2021/course-information/schedule/) | [Guides](https://pippinbarr.github.io/cc/1/guides/) | [Examples](https://pippinbarr.github.io/cc/1/examples/)
 
+# Quick links
+
+* [Creative Computation 1 Homepage](https://pippinbarr.github.io/cc/1/)
+* [Template p5 project (ZIP)](https://pippinbarr.github.io/cc/1/templates/template-p5-project.zip)
+
 # Schedule
 
 #### Contents
