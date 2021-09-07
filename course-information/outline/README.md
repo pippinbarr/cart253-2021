@@ -108,14 +108,14 @@ Students will create their own repository on GitHub to save, track, and present 
 
 Specific evaluation requirements will be provided when assigned.
 
-* Weekly exercises (10%)
+* Weekly exercises (20%)
    * 8 exercises total
-   * **Top 5** exercise grades will contribute 2% each to the final exercise grade
+   * **Top 5** exercise grades will contribute 4% each to the final exercise grade
 * Project 1 (20%)
 * Project 2 (50%)
   * Proposal and prototype (10%)
   * Final (40%)
-* Participation (20%)
+* Participation (10%)
    * Participation includes: attending class, completing coursework, being present on the Discord, asking questions, contributing to discussions, sharing ideas, and coming to office hours, emailing the instructor with updates on projects (even if you do not need help, make sure to touch base with the instructor regularly in some capacity)
 
 ## French
