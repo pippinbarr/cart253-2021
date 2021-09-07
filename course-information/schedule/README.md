@@ -44,8 +44,9 @@ Week of 6 September 2021
   * Homepage: [https://clab.concordia.ca/](https://clab.concordia.ca/)
   * Email: [computation.lab@concordia.ca](mailto:computation.lab@concordia.ca)
   * Zoom office hours: [https://concordia-ca.zoom.us/my/the.computation.lab](https://concordia-ca.zoom.us/my/the.computation.lab) (Email first for the password)
-  * Discord: Email for an invitation if needed
+  * Discord: Email C-LAB for an invitation if needed
   * Workshops: [https://clab.concordia.ca/clab-workshops/](https://clab.concordia.ca/clab-workshops/)
+1. Computation Arts Orientation at 16:00 on Zoom (Pippin will provide the link)
 1. Q&A
 
 ## Studio (in Discord studio channels after classroom)
