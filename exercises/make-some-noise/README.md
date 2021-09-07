@@ -1,7 +1,7 @@
 # Exercise: Make Some Noise {
 
 #### Grade
-- 2% of final grade
+- 4% of final grade
 - Remember that only 5 of your completed and passing exercises contribute to the final grade
 - Further guidelines below
 
@@ -53,13 +53,8 @@ Your submission should just be plain text that includes (substituting your GitHu
 
 ## Evaluation
 
-Grading for exercises is pass/fail. Passing requires __all__ of the following to be satisfactory:
+See the [evaluation guide for exercises](../evaluation-guide/)
 
-- __Runs__ and __meets the brief__
-- Has __suitable commenting__
-- Includes a __starting commit__ and then a reasonable number of commits throughout the work that include __descriptive messages__ about what was done. Messages should be __prefixed by `Ex:`__.
-- Uses __good naming__ for added variables
-- Is __well structured__, with new code added in sensible places in sensible orders
 
 ---
 

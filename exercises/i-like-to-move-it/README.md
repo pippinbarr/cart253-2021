@@ -1,10 +1,10 @@
 # Exercise: I like to move it! {
 
-  #### Grade
-  - 2% of final grade
-  - Remember that only 5 of your completed and passing exercises contribute to the final grade
-  - Further guidelines below
-  
+#### Grade
+- 4% of final grade
+- Remember that only 5 of your completed and passing exercises contribute to the final grade
+- Further guidelines below
+
 #### Deadline
 - Section A (Thursdays): 11:59PM, 23 September 2021
 - Section B (Tuesdays): 11:59PM, 21 September 2021
@@ -47,13 +47,7 @@ Your submission should just be plain text that includes (substituting your GitHu
 
 ## Evaluation
 
-Grading for exercises is pass/fail. Passing requires **all** of the following to be satisfactory:
-
-- **Runs** and **meets the brief**
-- Has **suitable commenting**
-- Includes a **starting commit** and then a reasonable number of commits throughout the work that include **descriptive messages** about what was done. Messages should be **prefixed by `Ex:`**.
-- Uses **good naming** for added variables
-- Is **well structured**, with new code added in sensible places in sensible orders
+See the [evaluation guide for exercises](../evaluation-guide/)
 
 ---
 

@@ -1,7 +1,7 @@
 # Exercise: Reflection {
 
 #### Grade
-- 2% of final grade
+- 4% of final grade
 - Remember that only 5 of your completed and passing exercises contribute to the final grade
 - Further guidelines below
 
@@ -39,7 +39,7 @@ Your submission should just be plain text that includes (substituting your GitHu
 
 ## Evaluation
 
-Grading for exercises is pass/fail. As long as you put genuine thought into your relationship to programming over the course, you will pass!
+Reflections will be graded on the basis of their depth insight into the learning experience of the course and the relationship the student has developed with programming over time.
 
 ---
 

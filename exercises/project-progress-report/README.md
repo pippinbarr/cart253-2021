@@ -1,7 +1,7 @@
 # Exercise: Project Progress Report {
 
 #### Grade
-- 2% of final grade
+- 4% of final grade
 - Remember that only 5 of your completed and passing exercises contribute to the final grade
 - Further guidelines below
 
