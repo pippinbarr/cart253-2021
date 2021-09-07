@@ -128,7 +128,7 @@ Late work of any kind will lose one letter grade per day late, beginning immedia
 
 ## Academic integrity
 
-## Academic Ethics
+### Academic Ethics
 
 The most common offence under the Academic Code of Conduct is plagiarism, which the Code defines as “the presentation of the work of another person as one’s own or without proper acknowledgement.” This includes material copied word for word from books, journals, Internet sites, professor’s course notes, etc. It refers to material that is paraphrased but closely resembles the original source. It also includes for example the work of a fellow student, an answer on a quiz, data for a lab report, a paper or assignment completed by another student. It might be a paper purchased from any source. Plagiarism does not refer to words alone – it can refer to copying images, graphs, tables and ideas. “Presentation” is not limited to written work. It includes oral presentations, computer assignments and artistic works. Finally, if you translate the work of another person into any other language and do not cite the source, this is also plagiarism.
 
