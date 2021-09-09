@@ -10,14 +10,14 @@
 #### Contents
 
 1. [Hello, World!](#hello-world) - introductions, course software
-1. [Instructions](#drawing) - telling p5 to draw shapes and colors
+1. [Instructions](#instructions) - telling p5 to draw shapes and colors
 1. [Variables](#variables) - making things change
 1. [Conditionals](#conditionals) - programs that react
 1. [Functions](#functions) - modularity and reuse
 1. [Sound and strict](#sound-and-strict) - basic sound and `"use strict";`
 1. [Arrays](#arrays) - storing data in little boxes
 1. [Object-Oriented Programming](#object-oriented-programming) - thinking of code as a collection of objects
-1. [Inheritance](#inheritance) - creating objects based on other objects
+1. [Inheritance and Polymorphism](#inheritance-and-polymorphism) - creating objects based on other objects
 1. [p5.sound](#p5sound) - the p5.sound library
 1. [Project 2 Studio I](#project-2-studio-i)
 1. [Project 2 Studio II](#project-2-studio-ii)
@@ -39,24 +39,19 @@ Week of 6 September 2021
 
 ## Classroom (in Discord classroom channels at 13:30 on the day of class)
 
-1. Welcome
+1. Welcome and Territorial Acknowledgement
 1. Introductions
 1. Reviewing the [Course Outline](../outline/)
 1. Reviewing the [Course Schedule](./)
 1. Waiting list? Is anyone on it?
-1. Any problems with software?
-1. The [C-LAB](https://clab.concordia.ca/) is there to help you
-  * Homepage: [https://clab.concordia.ca/](https://clab.concordia.ca/)
-  * Email: [computation.lab@concordia.ca](mailto:computation.lab@concordia.ca)
-  * Zoom office hours: [https://concordia-ca.zoom.us/my/the.computation.lab](https://concordia-ca.zoom.us/my/the.computation.lab) (Email first for the password)
-  * Discord: Email C-LAB for an invitation if needed
-  * Workshops: [https://clab.concordia.ca/clab-workshops/](https://clab.concordia.ca/clab-workshops/)
+1. The [C-LAB](https://clab.concordia.ca/) is there to help you, **get in touch now!**
 1. Computation Arts Orientation at 16:00 on Zoom (Pippin will provide the link)
 1. Q&A
 
 ## Studio (in Discord studio channels after classroom)
 
 1. Instructor and TA available to help
+1. Any problems with the course software?
 1. Start work on next week's material
 
 ## Homework
