@@ -74,8 +74,7 @@ Week of 13 September 2021
 1. [Instructions](https://pippinbarr.github.io/cc/1/schedule.html#instructions) overview
 1. The [Style Guide](https://pippinbarr.github.io/cc/1/guides/style-guide.html)
 1. The [Git Cheatsheet](https://pippinbarr.github.io/cc/1/guides/git-cheatsheet.html)
-1. Q&A
-1. The [Mona Lisa](https://en.wikipedia.org/wiki/Mona_Lisa#/media/File:Mona_Lisa,_by_Leonardo_da_Vinci,_from_C2RMF_retouched.jpg) in 30 minutes or less
+1. Question Time: The [Mona Lisa](https://en.wikipedia.org/wiki/Mona_Lisa#/media/File:Mona_Lisa,_by_Leonardo_da_Vinci,_from_C2RMF_retouched.jpg) in 30 minutes or less
 1. Queue Bot on Discord
 
 ## Studio (in Discord studio channels after classroom)
