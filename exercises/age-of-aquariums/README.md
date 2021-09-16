@@ -6,8 +6,8 @@
 - Further guidelines below
 
 #### Deadline
-- Section A (Thursdays): 11:59PM, 19 October 2021.
-- Section B (Tuesdays): 11:59PM, 21 October 2021.
+- Section A (Thursdays): 11:59PM, 21 October 2021.
+- Section B (Tuesdays): 11:59PM, 19 October 2021.
 
 ## Objectives
 
