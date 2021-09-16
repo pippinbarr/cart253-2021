@@ -37,7 +37,7 @@ Week of 6 September 2021
 1. **Complete** the [Hello, World! learning materials](https://pippinbarr.github.io/cc/1/schedule.html#hello-world)
 1. Get pumped!?
 
-## Classroom (in Discord classroom channels at 13:30 on the day of class)
+## Classroom (in Zoom at 13:30 on the day of class)
 
 1. Welcome and Territorial Acknowledgement
 1. Introductions
@@ -69,7 +69,7 @@ Week of 13 September 2021
 
 1. **Complete** the [Instructions learning materials](https://pippinbarr.github.io/cc/1/schedule.html#instructions)
 
-## Classroom (in Discord classroom channels at 13:30 on the day of class)
+## Classroom (in Zoom at 13:30 on the day of class)
 
 1. [Instructions](https://pippinbarr.github.io/cc/1/schedule.html#instructions) overview
 1. The [Style Guide](https://pippinbarr.github.io/cc/1/guides/style-guide.html)
@@ -97,7 +97,7 @@ Week of 20 September 2021
 
 1. **Complete** the [Variables learning materials](https://pippinbarr.github.io/cc/1/schedule.html#variables)
 1. **Start** [Exercise: I Like to Move It!](../../exercises/i-like-to-move-it)
-## Classroom (in Discord classroom channels at 13:30 on the day of class)
+## Classroom (in Zoom at 13:30 on the day of class)
 
 1. [Project 1](../../projects/project1/)
 1. [Arrays](https://pippinbarr.github.io/cc/1/schedule.html#array) may be useful ahead of schedule
@@ -127,7 +127,7 @@ Week of 27 September 2021
 1. **Start** [Exercise: Dodge-em](../../exercises/dodge-em)
 
 
-## Classroom (in Discord classroom channels at 13:30 on the day of class)
+## Classroom (in Zoom at 13:30 on the day of class)
 
 1. Q&A
 1. Let's make something?
@@ -154,7 +154,7 @@ Week of 4 October 2021
 1. **Complete** the [Functions learning materials](https://pippinbarr.github.io/cc/1/schedule.html#functions)
 1. **Start** [Exercise: Love, Actually](../../exercises/love-actually/)
 
-## Classroom (in Discord classroom channels at 13:30 on the day of class)
+## Classroom (in Zoom at 13:30 on the day of class)
 
 1. Q&A
 1. Let's make something?
@@ -180,7 +180,7 @@ Week of 11 October 2021
 
 1. **Complete** the [Sound and strict learning materials](https://pippinbarr.github.io/cc/1/schedule.html#sound-and-strict)
 
-## Classroom (in Discord classroom channels at 13:30 on the day of class)
+## Classroom (in Zoom at 13:30 on the day of class)
 
 1. Q&A
 1. Let's make something?
@@ -207,7 +207,7 @@ Week of 18 October 2021
 1. **Complete** the [Sound and strict learning materials](https://pippinbarr.github.io/cc/1/schedule.html#sound-and-strict)
 1. **Start** [Exercise: Age of Aquariums](../../exercises/age-of-aquariums/)
 
-## Classroom (in Discord classroom channels at 13:30 on the day of class)
+## Classroom (in Zoom at 13:30 on the day of class)
 
 1. Q&A
 1. Let's make something?
@@ -234,7 +234,7 @@ Week of 25 October 2021
 1. **Complete** the [Sound and strict learning materials](https://pippinbarr.github.io/cc/1/schedule.html#object-oriented-programming)
 1. **Start** [Exercise: Juggle Garden](../../exercises/juggle-garden/)
 
-## Classroom (in Discord classroom channels at 13:30 on the day of class)
+## Classroom (in Zoom at 13:30 on the day of class)
 
 1. Q&A
 1. Let's make something?
@@ -259,7 +259,7 @@ Week of 1 November 2021
 
 1. **Complete** the [Inheritance and polymorphism learning materials](https://pippinbarr.github.io/cc/1/schedule.html#inheritance-and-polymorphism)
 
-## Classroom (in Discord classroom channels at 13:30 on the day of class)
+## Classroom (in Zoom at 13:30 on the day of class)
 
 1. Q&A
 1. Let's make something?
@@ -284,7 +284,7 @@ Week of 8 November 2021
 1. **Complete** the [p5.sound learning materials](https://pippinbarr.github.io/cc/1/schedule.html#p5sound)
 1. **Start** [Exercise: Make Some Noise](../../exercises/make-some-noise/)
 
-## Classroom (in Discord classroom channels at 13:30 on the day of class)
+## Classroom (in Zoom at 13:30 on the day of class)
 
 1. Q&A
 1. Let's make something?
@@ -309,7 +309,7 @@ Week of 15 November 2021
 
 1. **Start** [Exercise: Project Progress Report](../../exercises/project-progress-report/)
 
-## Classroom (in Discord classroom channels at 13:30 on the day of class)
+## Classroom (in Zoom at 13:30 on the day of class)
 
 1. Q&A
 1. Let's make something?
@@ -330,7 +330,7 @@ Week of 15 November 2021
 
 Week of 22 November 2021
 
-## Classroom (in Discord classroom channels at 13:30 on the day of class)
+## Classroom (in Zoom at 13:30 on the day of class)
 
 1. Q&A
 1. Let's make something?
@@ -354,7 +354,7 @@ Week of 29 November 2021
 
 1. **Start** [Exercise: Reflection](../../exercises/reflection/)
 
-## Classroom (in Discord classroom channels at 13:30 on the day of class)
+## Classroom (in Zoom at 13:30 on the day of class)
 
 1. Q&A
 1. Let's make something?
