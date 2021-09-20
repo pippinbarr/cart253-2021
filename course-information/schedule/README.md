@@ -97,18 +97,18 @@ Week of 20 September 2021
 
 1. **Complete** the [Variables learning materials](https://pippinbarr.github.io/cc/1/schedule.html#variables)
 1. **Start** [Exercise: I Like to Move It!](../../exercises/i-like-to-move-it)
+
 ## Classroom (in Zoom at 13:30 on the day of class)
 
 1. [Project 1](../../projects/project1/)
 1. [Arrays](https://pippinbarr.github.io/cc/1/schedule.html#array) may be useful ahead of schedule
-1. Q&A
-1. Let's make something?
+1. [Variables](https://pippinbarr.github.io/cc/1/schedule.html#variables) review
+1. Question time: shapes with personality!
 
 ## Studio (in Discord studio channels after classroom)
 
-1. Instructor and TA available to help
 1. [Exercise: I Like to Move It!](../../exercises/i-like-to-move-it) (due tonight!)
-1. Start work on next week's material
+1. Start work on [Conditionals](https://pippinbarr.github.io/cc/1/schedule.html#conditionals)
 
 ## Homework
 
