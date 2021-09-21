@@ -103,7 +103,7 @@ Week of 20 September 2021
 1. [Project 1](../../projects/project1/)
 1. [Arrays](https://pippinbarr.github.io/cc/1/schedule.html#array) may be useful ahead of schedule
 1. [Variables](https://pippinbarr.github.io/cc/1/schedule.html#variables) review
-1. Question time: shapes with personality!
+1. Question time: Generative Art???
 
 ## Studio (in Discord studio channels after classroom)
 
