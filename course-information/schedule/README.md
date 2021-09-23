@@ -100,6 +100,7 @@ Week of 20 September 2021
 
 ## Classroom (in Zoom at 13:30 on the day of class)
 
+1. [National Day for Truth and Reconciliation](https://www.canada.ca/en/canadian-heritage/campaigns/national-day-truth-reconciliation.html) on 30 September 2021
 1. [Project 1](../../projects/project1/)
 1. [Arrays](https://pippinbarr.github.io/cc/1/schedule.html#array) may be useful ahead of schedule
 1. [Variables](https://pippinbarr.github.io/cc/1/schedule.html#variables) review
