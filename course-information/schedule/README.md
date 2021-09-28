@@ -130,8 +130,9 @@ Week of 27 September 2021
 
 ## Classroom (in Zoom at 13:30 on the day of class)
 
-1. Q&A
-1. Let's make something?
+1. Recording the session?
+1. [Conditionals](https://pippinbarr.github.io/cc/1/schedule.html#conditionals) review
+1. Question time: ???
 
 ## Studio (in Discord studio channels after classroom)
 
