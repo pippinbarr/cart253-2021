@@ -27,6 +27,8 @@ There is no need to devote hours and hours to this exercise, just focus on getti
 
 Write your reflections either in a PDF or in a README.md (check out the [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)) file in an `reflection` folder in your `exercises` folder.
 
+**Recommended:** Take a look at the first few exercises. Marvel at your progress! Consider even trying to do one or two of them again just to flex your powerful programming musculature! If you do, include them with your submission and share them with everyone else!
+
 ## Submission
 
 Submission will take place on **Moodle**. Go to the appropriately named **exercise** on the Moodle and then submit your work there.
