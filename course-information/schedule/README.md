@@ -170,7 +170,7 @@ Week of 4 October 2021
 ## Homework
 
 1. Continue work on next week's material
-1. [Project 1](../../projects/project1/)
+1. [Project 1](../../projects/project1/) (due next week, or the week after)
 
 ---
 
@@ -184,18 +184,19 @@ Week of 11 October 2021
 
 ## Classroom (in Zoom at 13:30 on the day of class)
 
-1. Q&A
-1. Let's make something?
+1. [Project 1](../../projects/project1/) first due date is tonight (but still have until next week if needed)
+1. Summarizing [Sound and strict learning materials](https://pippinbarr.github.io/cc/1/schedule.html#sound-and-strict)
+1. Let's make something? (Or not, to provide more time for the project)
 
 ## Studio (in Discord studio channels after classroom)
 
 1. Instructor and TA available to help
-1. Finish up with 1. [Project 1](../../projects/project1/)
+1. Work on [Project 1](../../projects/project1/)
 1. Start work on next week's material
 
 ## Homework
 
-1. Submit [Project 1](../../projects/project1/) on the night of class!
+1. First due date for [Project 1](../../projects/project1/) on the night of class!
 1. Continue work on next week's material
 
 ---
@@ -206,22 +207,25 @@ Week of 18 October 2021
 
 ## Before class
 
-1. **Complete** the [Sound and strict learning materials](https://pippinbarr.github.io/cc/1/schedule.html#sound-and-strict)
+1. **Complete** the [Arrays learning materials](https://pippinbarr.github.io/cc/1/schedule.html#arrays)
 1. **Start** [Exercise: Age of Aquariums](../../exercises/age-of-aquariums/)
 
 ## Classroom (in Zoom at 13:30 on the day of class)
 
-1. Q&A
+1. [Project 1](../../projects/project1/) final due date is tonight
+1. Summarizing [Arrays learning materials](https://pippinbarr.github.io/cc/1/schedule.html#arrays)
 1. Let's make something?
 
 ## Studio (in Discord studio channels after classroom)
 
 1. Instructor and TA available to help
+1. Continue working on [Project 1](../../projects/project1/) if not done yet (final due date is tonight)
 1. [Exercise: Age of Aquariums](../../exercises/age-of-aquariums/) (due tonight!)
 1. Start work on next week's material
 
 ## Homework
 
+1. Final due date for [Project 1](../../projects/project1/) on the night of class!
 1. Continue work on next week's material
 
 
@@ -233,12 +237,12 @@ Week of 25 October 2021
 
 ## Before class
 
-1. **Complete** the [Sound and strict learning materials](https://pippinbarr.github.io/cc/1/schedule.html#object-oriented-programming)
+1. **Complete** the [Object-Oriented Programming learning materials](https://pippinbarr.github.io/cc/1/schedule.html#object-oriented-programming)
 1. **Start** [Exercise: Juggle Garden](../../exercises/juggle-garden/)
 
 ## Classroom (in Zoom at 13:30 on the day of class)
 
-1. Q&A
+1. Summarizing [Object-Oriented Programming learning materials](https://pippinbarr.github.io/cc/1/schedule.html#object-oriented-programming)
 1. Let's make something?
 
 ## Studio (in Discord studio channels after classroom)
@@ -263,7 +267,7 @@ Week of 1 November 2021
 
 ## Classroom (in Zoom at 13:30 on the day of class)
 
-1. Q&A
+1. Summarizing [Inheritance and polymorphism learning materials](https://pippinbarr.github.io/cc/1/schedule.html#inheritance-and-polymorphism)
 1. Let's make something?
 
 ## Studio (in Discord studio channels after classroom)
@@ -288,7 +292,7 @@ Week of 8 November 2021
 
 ## Classroom (in Zoom at 13:30 on the day of class)
 
-1. Q&A
+1. Summarizing [p5.sound learning materials](https://pippinbarr.github.io/cc/1/schedule.html#p5sound)
 1. Let's make something?
 
 ## Studio (in Discord studio channels after classroom)
