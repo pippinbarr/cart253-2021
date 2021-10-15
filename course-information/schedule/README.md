@@ -213,6 +213,7 @@ Week of 18 October 2021
 ## Classroom (in Zoom at 13:30 on the day of class)
 
 1. [Project 1](../../projects/project1/) final due date is tonight
+1. [Project 2](../../projects/project2/) is now available
 1. Summarizing [Arrays learning materials](https://pippinbarr.github.io/cc/1/schedule.html#arrays)
 1. Let's make something?
 
@@ -222,11 +223,13 @@ Week of 18 October 2021
 1. Continue working on [Project 1](../../projects/project1/) if not done yet (final due date is tonight)
 1. [Exercise: Age of Aquariums](../../exercises/age-of-aquariums/) (due tonight!)
 1. Start work on next week's material
+1. [Project 2](../../projects/project2/)???
 
 ## Homework
 
 1. Final due date for [Project 1](../../projects/project1/) on the night of class!
 1. Continue work on next week's material
+1. [Project 2](../../projects/project2/)
 
 
 ---
@@ -242,6 +245,7 @@ Week of 25 October 2021
 
 ## Classroom (in Zoom at 13:30 on the day of class)
 
+1. [Project 2](../../projects/project2/) proposal and prototype are due next week
 1. Summarizing [Object-Oriented Programming learning materials](https://pippinbarr.github.io/cc/1/schedule.html#object-oriented-programming)
 1. Let's make something?
 
@@ -254,6 +258,7 @@ Week of 25 October 2021
 ## Homework
 
 1. Continue work on next week's material
+1. [Project 2](../../projects/project2/)
 
 ---
 
@@ -267,6 +272,7 @@ Week of 1 November 2021
 
 ## Classroom (in Zoom at 13:30 on the day of class)
 
+1. [Project 2](../../projects/project2/) proposal and prototype are due tonight
 1. Summarizing [Inheritance and polymorphism learning materials](https://pippinbarr.github.io/cc/1/schedule.html#inheritance-and-polymorphism)
 1. Let's make something?
 
@@ -274,10 +280,12 @@ Week of 1 November 2021
 
 1. Instructor and TA available to help
 1. Start work on next week's material
+1. [Project 2](../../projects/project2/)
 
 ## Homework
 
 1. Continue work on next week's material
+1. [Project 2](../../projects/project2/)
 
 ---
 
@@ -292,6 +300,7 @@ Week of 8 November 2021
 
 ## Classroom (in Zoom at 13:30 on the day of class)
 
+1. [Project 2](../../projects/project2/)
 1. Summarizing [p5.sound learning materials](https://pippinbarr.github.io/cc/1/schedule.html#p5sound)
 1. Let's make something?
 
@@ -300,10 +309,11 @@ Week of 8 November 2021
 1. Instructor and TA available to help
 1. [Exercise: Make Some Noise](../../exercises/make-some-noise/) (due tonight!)
 1. Start work on next week's material
+1. [Project 2](../../projects/project2/)
 
 ## Homework
 
-1. Continue work on next week's material
+1. [Project 2](../../projects/project2/)
 
 ---
 
@@ -317,18 +327,18 @@ Week of 15 November 2021
 
 ## Classroom (in Zoom at 13:30 on the day of class)
 
-1. Q&A
+1. [Project 2](../../projects/project2/)
 1. Let's make something?
 
 ## Studio (in Discord studio channels after classroom)
 
 1. Instructor and TA available to help
 1. [Exercise: Project Progress Report](../../exercises/project-progress-report/) (due tonight)
-1. Working on [Project 2](../../projects/project2/)
+1. [Project 2](../../projects/project2/)
 
 ## Homework
 
-1. Continue work on [Project 2](../../projects/project2/)
+1. [Project 2](../../projects/project2/)
 
 ---
 
@@ -338,17 +348,17 @@ Week of 22 November 2021
 
 ## Classroom (in Zoom at 13:30 on the day of class)
 
-1. Q&A
+1. [Project 2](../../projects/project2/)
 1. Let's make something?
 
 ## Studio (in Discord studio channels after classroom)
 
 1. Instructor and TA available to help
-1. Working on [Project 2](../../projects/project2/)
+1. [Project 2](../../projects/project2/)
 
 ## Homework
 
-1. Continue work on [Project 2](../../projects/project2/)
+1. [Project 2](../../projects/project2/)
 
 ---
 
@@ -362,17 +372,17 @@ Week of 29 November 2021
 
 ## Classroom (in Zoom at 13:30 on the day of class)
 
-1. Q&A
+1. [Project 2](../../projects/project2/)
 1. Let's make something?
 
 ## Studio (in Discord studio channels after classroom)
 
 1. Instructor and TA available to help
 1. [Exercise: Reflection](../../exercises/reflection/) (due tonight!)
-1. Working on [Project 2](../../projects/project2/)
+1. [Project 2](../../projects/project2/)
 
 ## Homework
 
-1. Continue work on [Project 2](../../projects/project2/)
+1. [Project 2](../../projects/project2/)
 
 ---
