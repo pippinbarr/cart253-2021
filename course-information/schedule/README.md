@@ -245,6 +245,7 @@ Week of 25 October 2021
 
 ## Classroom (in Zoom at 13:30 on the day of class)
 
+1. HackConcordia guest talk (Tuesday only)
 1. [Project 2](../../projects/project2/) proposal and prototype are due next week
 1. Summarizing [Object-Oriented Programming learning materials](https://pippinbarr.github.io/cc/1/schedule.html#object-oriented-programming)
 1. Let's make something?
