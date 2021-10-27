@@ -10,8 +10,8 @@
 #### Deadlines
 
 ##### Proposal and prototype
-- Section B (Tuesdays): 11:59PM, 2 November 2021
-- Section A (Thursdays): 11:59PM, 4 November 2021
+- Section B (Tuesdays): 11:59PM, 2 - 9 November 2021
+- Section A (Thursdays): 11:59PM, 4 - 11 November 2021
 
 ##### Final project
 - Section B (Tuesdays): 11:59PM, 7 December 2021
@@ -38,8 +38,8 @@ The proposal and prototype stage will require you to write a **short proposal do
 
 ### Deadline
 
-- Section B (Tuesdays): 11:59PM, 2 November 2021
-- Section A (Thursdays): 11:59PM, 4 November 2021
+- Section B (Tuesdays): 11:59PM, 2 - 9 November 2021
+- Section A (Thursdays): 11:59PM, 4 - 11 November 2021
 
 ### Requirements
 
