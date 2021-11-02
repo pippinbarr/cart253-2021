@@ -273,7 +273,7 @@ Week of 1 November 2021
 
 ## Classroom (in Zoom at 13:30 on the day of class)
 
-1. [Project 2](../../projects/project2/) proposal and prototype are due tonight
+1. [Project 2](../../projects/project2/) proposal and prototype are due next week
 1. Summarizing [Inheritance and polymorphism learning materials](https://pippinbarr.github.io/cc/1/schedule.html#inheritance-and-polymorphism)
 1. Let's make something?
 
@@ -301,7 +301,7 @@ Week of 8 November 2021
 
 ## Classroom (in Zoom at 13:30 on the day of class)
 
-1. [Project 2](../../projects/project2/)
+1. [Project 2](../../projects/project2/) proposal and prototype is due tonight
 1. Summarizing [p5.sound learning materials](https://pippinbarr.github.io/cc/1/schedule.html#p5sound)
 1. Let's make something?
 
