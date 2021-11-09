@@ -309,7 +309,6 @@ Week of 8 November 2021
 
 1. Instructor and TA available to help
 1. [Exercise: Make Some Noise](../../exercises/make-some-noise/) (due tonight!)
-1. Start work on next week's material
 1. [Project 2](../../projects/project2/)
 
 ## Homework
